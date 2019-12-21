@@ -1,0 +1,59 @@
+.container-fluid-custom
+{
+  padding: 0;
+  margin: 0;
+  height: 95%;
+  position: absolute;
+}
+
+.jumbotron-custom
+{
+  background-color: #4ddbff;
+  color: white;
+  height: 20% !important;
+}
+
+.container-custom
+{
+  height: 60% !important;
+}
+
+.label-custom
+{
+  padding-left: 0px;
+  padding-top: 5px;
+  font-size: small;
+}
+
+.footer-custom
+{ 
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 18% !important;
+  background-color: #4ddbff;
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+}
+
+footer a, footer a:hover, footer a:visited
+{
+  color: white;
+}
+
+.copiright-custom
+{
+  font-weight: bold;
+}
+
+.link-custom-left
+{
+  text-align: left;
+}
+
+.link-custom-right
+{
+  text-align: right;
+  min-height: 100%;
+}
